@@ -4,4 +4,4 @@
 
 **Make date**: 17-07-2020 18:11
 
-**Number of lines in guessinggame.sh:** 25
+**Number of lines in guessinggame.sh:** 26
